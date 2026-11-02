@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Easy",
+    "from": "Changan",
+    "to": "Roma",
+    "coins": 180,
+    "days": 26,
+    "targets": [
+      {"name": "silk", "quantity": 1},
+      {"name": "tea", "quantity": 1}
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "from": "Changan",
+    "to": "Roma",
+    "coins": 135,
+    "days": 23,
+    "targets": [
+      {"name": "silk", "quantity": 1},
+      {"name": "tea", "quantity": 1},
+      {"name": "porcelain", "quantity": 1}
+    ]
+  }
+]

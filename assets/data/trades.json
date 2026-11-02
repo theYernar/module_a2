@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Dunhuang",
+    "city_buying": [],
+    "city_selling": [
+      { "name": "silk", "price": 60 },
+      { "name": "tea", "price": 50 },
+      { "name": "porcelain", "price": 55 }
+    ]
+  },
+  {
+    "city": "Samarkand",
+    "city_buying": [
+      { "name": "silk", "price": 75 },
+      { "name": "tea", "price": 65 },
+      { "name": "porcelain", "price": 70 }
+    ],
+    "city_selling": [
+      { "name": "carpet", "price": 80 },
+      { "name": "glass", "price": 70 },
+      { "name": "perfume", "price": 85 }
+    ]
+  },
+  {
+    "city": "Baghdad",
+    "city_buying": [
+      { "name": "silk", "price": 90 },
+      { "name": "tea", "price": 80 },
+      { "name": "porcelain", "price": 85 }
+    ],
+    "city_selling": [
+      { "name": "purple_silk", "price": 120 },
+      { "name": "spices", "price": 100 },
+      { "name": "wine", "price": 60 }
+    ]
+  },
+  {
+    "city": "Constantinople",
+    "city_buying": [
+      { "name": "silk", "price": 110 },
+      { "name": "tea", "price": 100 },
+      { "name": "porcelain", "price": 105 }
+    ],
+    "city_selling": [
+      { "name": "amber", "price": 90 },
+      { "name": "fur", "price": 85 },
+      { "name": "ivory", "price": 110 }
+    ]
+  }
+]

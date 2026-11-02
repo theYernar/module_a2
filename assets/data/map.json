@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Changan",
+    "type": "city",
+    "positionX": 11,
+    "positionY": 5
+  },
+  {
+    "name": "Dunhuang",
+    "type": "city",
+    "positionX": 10,
+    "positionY": 4
+  },
+  {
+    "name": "Samarkand",
+    "type": "city",
+    "positionX": 7,
+    "positionY": 3
+  },
+  {
+    "name": "Baghdad",
+    "type": "city",
+    "positionX": 5,
+    "positionY": 4
+  },
+  {
+    "name": "Constantinople",
+    "type": "city",
+    "positionX": 3,
+    "positionY": 2
+  },
+  {
+    "name": "Roma",
+    "type": "city",
+    "positionX": 0,
+    "positionY": 2
+  },
+  {
+    "name": "Adriatic",
+    "type": "sea",
+    "positionX": 1,
+    "positionY": 2
+  },
+  {
+    "name": "Tyrrhenian",
+    "type": "sea",
+    "positionX": 0,
+    "positionY": 3
+  },
+  {
+    "name": "Ionian",
+    "type": "sea",
+    "positionX": 1,
+    "positionY": 3
+  },
+  {
+    "name": "Aegean",
+    "type": "sea",
+    "positionX": 2,
+    "positionY": 3
+  },
+  {
+    "name": "Mediterranean",
+    "type": "sea",
+    "positionX": 3,
+    "positionY": 4
+  },
+  {
+    "name": "Black",
+    "type": "sea",
+    "positionX": 3,
+    "positionY": 1
+  },
+  {
+    "name": "Black",
+    "type": "sea",
+    "positionX": 4,
+    "positionY": 1
+  },
+  {
+    "name": "Caspian",
+    "type": "sea",
+    "positionX": 6,
+    "positionY": 1
+  },
+  {
+    "name": "Caspian",
+    "type": "sea",
+    "positionX": 6,
+    "positionY": 2
+  },
+  {
+    "name": "Red",
+    "type": "sea",
+    "positionX": 4,
+    "positionY": 6
+  },
+  {
+    "name": "Red",
+    "type": "sea",
+    "positionX": 4,
+    "positionY": 7
+  },
+  {
+    "name": "Persian Gulf",
+    "type": "sea",
+    "positionX": 6,
+    "positionY": 5
+  },
+  {
+    "name": "Gulf of Oman",
+    "type": "sea",
+    "positionX": 7,
+    "positionY": 6
+  },
+  {
+    "name": "Arabian",
+    "type": "sea",
+    "positionX": 6,
+    "positionY": 7
+  },
+  {
+    "name": "Arabian",
+    "type": "sea",
+    "positionX": 7,
+    "positionY": 7
+  },
+  {
+    "name": "Alps",
+    "type": "mountain",
+    "positionX": 0,
+    "positionY": 0
+  },
+  {
+    "name": "Alps",
+    "type": "mountain",
+    "positionX": 1,
+    "positionY": 0
+  },
+  {
+    "name": "Caucasus",
+    "type": "mountain",
+    "positionX": 5,
+    "positionY": 1
+  },
+  {
+    "name": "Tien Shan",
+    "type": "mountain",
+    "positionX": 8,
+    "positionY": 3
+  },
+  {
+    "name": "Kunlun",
+    "type": "mountain",
+    "positionX": 8,
+    "positionY": 4
+  },
+  {
+    "name": "Himalayas",
+    "type": "mountain",
+    "positionX": 8,
+    "positionY": 5
+  },
+  {
+    "name": "Himalayas",
+    "type": "mountain",
+    "positionX": 9,
+    "positionY": 6
+  },
+  {
+    "name": "Hengduan",
+    "type": "mountain",
+    "positionX": 10,
+    "positionY": 6
+  },
+  {
+    "name": "Altay",
+    "type": "mountain",
+    "positionX": 10,
+    "positionY": 1
+  },
+  {
+    "name": "Sayan",
+    "type": "mountain",
+    "positionX": 11,
+    "positionY": 1
+  }
+]
